@@ -20,3 +20,4 @@ list-object-html-template
 
 
 // The end result is a bullet list of your items. You can remove the bullets via regular CSS if you like
+</script>
