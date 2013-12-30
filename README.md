@@ -1,4 +1,7 @@
 list-object-html-template
+
+
+This code is vulnerable to cross site scripting attacks and was done for educational purposes only. Do not use it.
 =========================
 
 	<ul id="list-TEMPLATE"></ul>     <!-- add     -TEMPLATE    to your id's -->
